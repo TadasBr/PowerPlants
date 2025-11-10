@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{454AE0DC-E29C-4F0B-90D3-66FEC31C6F9F}|PowerPlants.API\\PowerPlants.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{454AE0DC-E29C-4F0B-90D3-66FEC31C6F9F}|PowerPlants.API\\PowerPlants.API.csproj|solutionrelative:powerplants.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.persistence\\powerplantsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|solutionrelative:powerplants.persistence\\powerplantsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.persistence\\powerplantsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|solutionrelative:powerplants.persistence\\powerplantsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.persistence\\migrations\\powerplantsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|solutionrelative:powerplants.persistence\\migrations\\powerplantsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.persistence\\migrations\\20251110192500_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|solutionrelative:powerplants.persistence\\migrations\\20251110192500_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454AE0DC-E29C-4F0B-90D3-66FEC31C6F9F}|PowerPlants.API\\PowerPlants.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{454AE0DC-E29C-4F0B-90D3-66FEC31C6F9F}|PowerPlants.API\\PowerPlants.API.csproj|solutionrelative:powerplants.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{454AE0DC-E29C-4F0B-90D3-66FEC31C6F9F}|PowerPlants.API\\PowerPlants.API.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.api\\powerplants.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{454AE0DC-E29C-4F0B-90D3-66FEC31C6F9F}|PowerPlants.API\\PowerPlants.API.csproj|solutionrelative:powerplants.api\\powerplants.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.persistence\\powerplants.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E5CA986-04AD-4A7A-B8E9-49393AD3D80E}|PowerPlants.Persistence\\PowerPlants.Persistence.csproj|solutionrelative:powerplants.persistence\\powerplants.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40CEE0C-2CC9-4DE0-84E4-A8073DCAA144}|PowerPlants.Business\\PowerPlants.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.business\\services\\powerplantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40CEE0C-2CC9-4DE0-84E4-A8073DCAA144}|PowerPlants.Business\\PowerPlants.Business.csproj|solutionrelative:powerplants.business\\services\\powerplantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40CEE0C-2CC9-4DE0-84E4-A8073DCAA144}|PowerPlants.Business\\PowerPlants.Business.csproj|c:\\users\\tadasbrazaitis\\onedrive - twoday\\desktop\\powerplants\\powerplantsapi\\powerplants.business\\services\\ipowerplantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40CEE0C-2CC9-4DE0-84E4-A8073DCAA144}|PowerPlants.Business\\PowerPlants.Business.csproj|solutionrelative:powerplants.business\\services\\ipowerplantsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerPlantsDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\Migrations\\PowerPlantsDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PowerPlants.Persistence\\Migrations\\PowerPlantsDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\Migrations\\PowerPlantsDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PowerPlants.Persistence\\Migrations\\PowerPlantsDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:35:01.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251110192500_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\Migrations\\20251110192500_InitialMigration.cs",
+              "RelativeDocumentMoniker": "PowerPlants.Persistence\\Migrations\\20251110192500_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\Migrations\\20251110192500_InitialMigration.cs",
+              "RelativeToolTip": "PowerPlants.Persistence\\Migrations\\20251110192500_InitialMigration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:33:38.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PowerPlants.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.API\\appsettings.json",
+              "RelativeToolTip": "PowerPlants.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T19:26:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PowerPlants.Persistence",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\PowerPlants.Persistence.csproj",
+              "RelativeDocumentMoniker": "PowerPlants.Persistence\\PowerPlants.Persistence.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\PowerPlants.Persistence.csproj",
+              "RelativeToolTip": "PowerPlants.Persistence\\PowerPlants.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T19:16:21.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.API\\Program.cs",
+              "RelativeDocumentMoniker": "PowerPlants.API\\Program.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.API\\Program.cs",
+              "RelativeToolTip": "PowerPlants.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:16:50.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerPlantsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\PowerPlantsDbContext.cs",
+              "RelativeDocumentMoniker": "PowerPlants.Persistence\\PowerPlantsDbContext.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\PowerPlantsDbContext.cs",
+              "RelativeToolTip": "PowerPlants.Persistence\\PowerPlantsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:16:18.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerPlantsDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\PowerPlantsDbContextFactory.cs",
+              "RelativeDocumentMoniker": "PowerPlants.Persistence\\PowerPlantsDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Persistence\\PowerPlantsDbContextFactory.cs",
+              "RelativeToolTip": "PowerPlants.Persistence\\PowerPlantsDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:15:49.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PowerPlants.API",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.API\\PowerPlants.API.csproj",
+              "RelativeDocumentMoniker": "PowerPlants.API\\PowerPlants.API.csproj",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.API\\PowerPlants.API.csproj",
+              "RelativeToolTip": "PowerPlants.API\\PowerPlants.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T19:20:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PowerPlantsService.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Business\\Services\\PowerPlantsService.cs",
+              "RelativeDocumentMoniker": "PowerPlants.Business\\Services\\PowerPlantsService.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Business\\Services\\PowerPlantsService.cs",
+              "RelativeToolTip": "PowerPlants.Business\\Services\\PowerPlantsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:16:24.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPowerPlantsService.cs",
+              "DocumentMoniker": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Business\\Services\\IPowerPlantsService.cs",
+              "RelativeDocumentMoniker": "PowerPlants.Business\\Services\\IPowerPlantsService.cs",
+              "ToolTip": "C:\\Users\\TadasBrazaitis\\OneDrive - twoday\\Desktop\\PowerPlants\\PowerPlantsAPI\\PowerPlants.Business\\Services\\IPowerPlantsService.cs",
+              "RelativeToolTip": "PowerPlants.Business\\Services\\IPowerPlantsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T19:16:23.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
