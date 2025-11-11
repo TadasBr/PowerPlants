@@ -16,7 +16,7 @@ Solution that is used to store and retreive power plants
 ### Bonus Requirements (nice to have)
 - [x] Use EFCore
 - [x] Add a unit test for the validation logic of the POST endpoint
-- [x] Add paging to GET endpoint
+- [ ] Add paging to GET endpoint
 - [x] Improve filtering to work with accented characters
 - [x] Responses for Bad Request responses (POST endpoint) should include error descriptions of what went wrong
 
