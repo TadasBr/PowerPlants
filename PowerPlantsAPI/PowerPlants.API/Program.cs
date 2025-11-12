@@ -29,6 +29,36 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<PowerPlantsDbContext>();
+
+    var retryCount = 0;
+    var maxRetries = 10;
+
+    while (retryCount < maxRetries)
+    {
+        try
+        {
+            db.Database.Migrate();
+            break;
+        }
+        catch (Exception ex)
+        {
+            retryCount++;
+            Console.WriteLine($"Migration attempt {retryCount}/{maxRetries} failed: {ex.Message}");
+
+            if (retryCount >= maxRetries)
+            {
+                Console.WriteLine("Max retries reached. Exiting...");
+                throw;
+            }
+
+            await Task.Delay(TimeSpan.FromSeconds(5));
+        }
+    }
+}
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
