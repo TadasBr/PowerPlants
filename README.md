@@ -22,8 +22,12 @@ Solution that is used to store and retreive power plants
 
 ## How to run
 
-### Create database
+### Docker
+Go to solution directory PowerplantsAPI and run command: "docker-compose up --build"
 
-- Setup SQL Server with PowerPlantsDb database
-- Run Migration: dotnet ef database update InitialMigration
-- imply open the solution and run it as an HTTP application. The documentation (Swagger) should open automatically. If it doesn't, navigate to: http://localhost:5203/swagger/index.html
+### Manually
+Create local sql server manually with credentials stored in PowerPlants.API/appsetings.json file.
+start PowerPlants.API project with http and it should automatically run:
+- ef migration to create database and table
+- swagger in browser, otherwise go to http://localhost:5203/index.html
+
